@@ -10,9 +10,10 @@ Solving Advent of Code 2024 in C++ because why make life easy? Yes, I know about
 
 ## Project Structure
 ```
-day01/
-├── input.txt    # Paste your puzzle input here
-└── main.cpp     # Write your solution here
+days
+├──day01/
+   ├── input.txt    # Paste your puzzle input here
+   └── main.cpp     # Write your solution here
 ```
 
 ## Building & Running
