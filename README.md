@@ -25,9 +25,7 @@ clang++ -std=c++17 main.cpp -o solution
 
 ## Progress
 
-- Day 1: ⭐⭐ 
-- Day 2: ⭐⭐
-- Day 3-25: 🎄 (Coming soon)
+- Day 1: Just starting
 
 ## Notes
 
