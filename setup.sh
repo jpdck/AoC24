@@ -17,7 +17,7 @@ done
 
 echo "Created folders for 25 days of Advent of Code!"
 echo "Each folder contains:"
-echo "  - main.cpp (empty)"
+echo "  - main.py (empty)"
 echo "  - input.txt (empty)"
 echo ""
 echo "To compile and run a day's solution:"

@@ -36,8 +36,4 @@ clang++ -std=c++17 main.cpp -o solution
 
 ## License
 
-MIT License. Feel free to copy my solutions after you've solved it yourself. 
-
----
-
-*Written by someone who remembered to close their input files... most of the time.*
+MIT License. Feel free to copy my solutions after you've solved it yourself.
