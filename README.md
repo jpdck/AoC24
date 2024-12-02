@@ -19,6 +19,7 @@ days
 ## Building & Running
 
 ```bash
+cd days
 cd dayXX
 clang++ -std=c++17 main.cpp -o solution
 ./solution
@@ -27,13 +28,6 @@ clang++ -std=c++17 main.cpp -o solution
 ## Progress
 
 - Day 1: Just starting
-
-## Notes
-
-- Using C++17 because modern enough™
-- macOS + Clang because life is already complicated enough
-- No build system because this isn't enterprise software
-- No fancy optimizations because AoC inputs are small
 
 ## License
 
